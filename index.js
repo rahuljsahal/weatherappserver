@@ -15,7 +15,7 @@ app.use('/api/user', userRoute);
 
 
 // MongoDB setup and connection
-mongoose.connect('mongodb+srv://prateekpranveer:root@dikshant-c.hsvetcj.mongodb.net/', {
+mongoose.connect('mongodb+srv://sahalrahul32:root@cluster0.zo0zdfz.mongodb.net/', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
